@@ -1,0 +1,15 @@
+
+    .background-blur {
+       background: #00BCCE;
+       filter: blur(150px);
+    }
+    
+    .background-blur-2{
+        background:#292AAD;
+        filter: blur(150px);
+    }
+    
+     .background-blur-3{
+        background:#530484;
+        filter: blur(150px);
+    }
